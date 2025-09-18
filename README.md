@@ -7,7 +7,7 @@ Welcome to the ultimate tool designed to streamline your tasks and manage your t
 **Step 1: Clone the Repository**
 
 ```bash
-git clone https://github.com/Alhashmi-creator/Time-Management-Tool.git
+git clone https://github.com/ankitsharma-tech/Time-Management-Tool.git
 ```
 
 **Step 2: Navigate to the Directory**
